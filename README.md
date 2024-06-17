@@ -2,6 +2,8 @@
 
 A text-to-image model based on discrete diffusion.
 
+<img src="animation.gif" width="180" height="180">
+
 
 Most of the current text-to-image models model the PDF of continuous image data using a continuous diffusion process defined by a SDE or its corresponding probability flow ODE.
 
